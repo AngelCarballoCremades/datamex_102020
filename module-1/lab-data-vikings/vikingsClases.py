@@ -2,6 +2,8 @@
 import random
 
 # Soldier
+
+
 class Soldier:
 
     def __init__(self, health, strength):
@@ -11,7 +13,7 @@ class Soldier:
     def attack(self):
         return self.strength
 
-    def receiveDamage(self,damage):
+    def receiveDamage(self, damage):
         self.health -= damage
 
 
@@ -22,37 +24,37 @@ class Viking(Soldier):
         Soldier.__init__(self, health, strength)
         self.name = name
 
-    def receiveDamage(self,damage):
+    def receiveDamage(self, damage):
         self.health -= damage
-        
+
         if self.health > 0:
             return f'{self.name} has received {damage} points of damage'
         else:
-            return f'{self.name} has died in act of combat'    
+            return f'{self.name} has died in act of combat'
 
     def battleCry(self):
         return 'Odin Owns You All!'
-    
+
 
 # Saxon
 class Saxon(Soldier):
-    
+
     def __init__(self, health, strength):
         Soldier.__init__(self, health, strength)
 
-    def receiveDamage(self,damage):
+    def receiveDamage(self, damage):
         self.health -= damage
-        
+
         if self.health > 0:
             return f'A Saxon has received {damage} points of damage'
         else:
-            return f'A Saxon has died in combat'            
+            return f'A Saxon has died in combat'
 
 # War
 
 
 class War:
-    
+
     def __init__(self):
         self.vikingArmy = []
         self.saxonArmy = []
@@ -66,7 +68,7 @@ class War:
     def vikingAttack(self):
         sax = random.choice(self.saxonArmy)
         vik = random.choice(self.vikingArmy)
-        
+
         result = sax.receiveDamage(vik.strength)
 
         if sax.health > 0:
@@ -79,7 +81,7 @@ class War:
     def saxonAttack(self):
         sax = random.choice(self.saxonArmy)
         vik = random.choice(self.vikingArmy)
-        
+
         result = vik.receiveDamage(sax.strength)
 
         if vik.health > 0:
@@ -98,17 +100,3 @@ class War:
 
         else:
             return 'Vikings and Saxons are still in the thick of battle.'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
