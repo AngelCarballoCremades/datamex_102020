@@ -693,3 +693,347 @@ JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bB
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604185165786	geckodriver	INFO	Listening on 127.0.0.1:50047
+1604185168810	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilezMuDWD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185176164	Marionette	INFO	Listening on port 50057
+1604185176761	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15020, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604185311411	Marionette	INFO	Stopped listening on port 50057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Store.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185313593	Marionette	INFO	Listening on port 50106
+1604185313656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604185331565	Marionette	INFO	Stopped listening on port 50106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604185331754	geckodriver	INFO	Listening on 127.0.0.1:50135
+1604185334814	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileniFMMy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185338796	Marionette	INFO	Listening on port 50143
+1604185339124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604185458854	Marionette	INFO	Stopped listening on port 50143
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604185459354	geckodriver	INFO	Listening on 127.0.0.1:50230
+1604185462429	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofiledO2k9f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185466294	Marionette	INFO	Listening on port 50238
+1604185466682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604185744930	Marionette	INFO	Stopped listening on port 50238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604185802253	geckodriver	INFO	Listening on 127.0.0.1:50322
+1604185805292	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileVJw7XS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185809088	Marionette	INFO	Listening on port 50330
+1604185809512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604185933859	Marionette	INFO	Stopped listening on port 50330
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604185976322	geckodriver	INFO	Listening on 127.0.0.1:50412
+1604185979372	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile7XA1Ed"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604185983551	Marionette	INFO	Listening on port 50420
+1604185983630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604186480000	Marionette	INFO	Stopped listening on port 50420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604186570639	geckodriver	INFO	Listening on 127.0.0.1:50671
+1604186573694	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileLea23b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604186577656	Marionette	INFO	Listening on port 50679
+1604186577969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604186970527	Marionette	INFO	Stopped listening on port 50679
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604186972997	geckodriver	INFO	Listening on 127.0.0.1:50842
+1604186976067	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilecD8FyO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604186980066	Marionette	INFO	Listening on port 50850
+1604186980343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604187089051	Marionette	INFO	Stopped listening on port 50850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604187129477	geckodriver	INFO	Listening on 127.0.0.1:50928
+1604187132578	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileB4XFmw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604187136756	Marionette	INFO	Listening on port 50936
+1604187136802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604187430566	Marionette	INFO	Stopped listening on port 50936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604187431100	geckodriver	INFO	Listening on 127.0.0.1:51090
+1604187434165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileIeaA6w"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604187438400	Marionette	INFO	Listening on port 51098
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1604187438755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 144: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: rs-experiment-loader-timer
+1604187443294	Marionette	INFO	Stopped listening on port 51098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604187454275	geckodriver	INFO	Listening on 127.0.0.1:51118
+1604187457335	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile89Lrta"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604187461113	Marionette	INFO	Listening on port 51126
+1604187461609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604187467068	Marionette	INFO	Stopped listening on port 51126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604187479755	geckodriver	INFO	Listening on 127.0.0.1:51156
+1604187482815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile3vKHTl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604187486507	Marionette	INFO	Listening on port 51164
+1604187486552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604187649166	Marionette	INFO	Stopped listening on port 51164
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait]JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1604187788516	Marionette	INFO	Stopped listening on port 51261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604187823743	geckodriver	INFO	Listening on 127.0.0.1:51363
+1604187826823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilekerK5R"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604187830238	Marionette	INFO	Listening on port 51371
+1604187830559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604187934147	Marionette	INFO	Stopped listening on port 51371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604188540860	geckodriver	INFO	Listening on 127.0.0.1:59471
+1604188544000	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile5PEw1Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604188548020	Marionette	INFO	Listening on port 59479
+1604188548272	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604188602539	Marionette	INFO	Stopped listening on port 59479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604188699084	geckodriver	INFO	Listening on 127.0.0.1:63901
+1604188702144	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileNiMhNW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604188705692	Marionette	INFO	Listening on port 63909
+1604188705891	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604189220813	Marionette	INFO	Stopped listening on port 63909
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604189277452	geckodriver	INFO	Listening on 127.0.0.1:64045
+1604189280554	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileKuWYDb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604189283792	Marionette	INFO	Listening on port 64053
+1604189284255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=5&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Diarios&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 821: ReferenceError: Telerik is not defined
+JavaScript error: https://framework-gb.cdn.gob.mx/gobmx.js, line 129: ReferenceError: Modernizr is not defined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604189517537	Marionette	INFO	Stopped listening on port 64053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
