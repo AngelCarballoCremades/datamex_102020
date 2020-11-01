@@ -1037,3 +1037,1123 @@ JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bB
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604197910212	geckodriver	INFO	Listening on 127.0.0.1:49830
+1604197913412	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilevSvyRe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604197918704	Marionette	INFO	Listening on port 49838
+1604197918866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=GZ3QfEsDf771TmSvFRjGR69Hq2NEXDxcWWpLjWLsCHSVECzCBeq0qu7AXX0GIqeI74UvYNz_8Lq8odUQzGlA6k_7MXWQJp1d6X2tijV3kdamRM1aSEjE49THKtEC99Kx6fqS8iqo1dxveox5eMN_HQ2&t=51e37521:2, line 24729: Sys.WebForms.PageRequestManagerServerErrorException: Sys.WebForms.PageRequestManagerServerErrorException: An unknown error occurred while processing the request on the server. The status code returned from the server was: 0
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+[Parent 12644, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604198070553	Marionette	INFO	Stopped listening on port 49838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604198650919	geckodriver	INFO	Listening on 127.0.0.1:55289
+1604198653961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileUyB3p3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604198657508	Marionette	INFO	Listening on port 55297
+1604198657636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604199877993	Marionette	INFO	Stopped listening on port 55297
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604200403261	geckodriver	INFO	Listening on 127.0.0.1:55401
+1604200406286	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilelI6zQk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604200409850	Marionette	INFO	Listening on port 55409
+1604200409959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604200447859	Marionette	INFO	Stopped listening on port 55409
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604200449543	geckodriver	INFO	Listening on 127.0.0.1:55471
+1604200452601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilejgBMUl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604200456433	Marionette	INFO	Listening on port 55479
+1604200456765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604200616231	Marionette	INFO	Stopped listening on port 55479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604200616913	geckodriver	INFO	Listening on 127.0.0.1:55551
+1604200619978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilevBvFMU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604200623925	Marionette	INFO	Listening on port 55559
+1604200624167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604200668891	Marionette	INFO	Stopped listening on port 55559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604200797043	geckodriver	INFO	Listening on 127.0.0.1:55635
+1604200800084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileRAYIvr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604200803493	Marionette	INFO	Listening on port 55643
+1604200803756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604200877957	Marionette	INFO	Stopped listening on port 55643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604200878601	geckodriver	INFO	Listening on 127.0.0.1:55702
+1604200881649	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileAoX3Z2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604200885276	Marionette	INFO	Listening on port 55713
+1604200885337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604201084382	Marionette	INFO	Stopped listening on port 55713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604201255322	geckodriver	INFO	Listening on 127.0.0.1:55790
+1604201258389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileDaR4RI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604201262023	Marionette	INFO	Listening on port 55798
+1604201262061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604201458775	Marionette	INFO	Stopped listening on port 55798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604201578048	geckodriver	INFO	Listening on 127.0.0.1:55887
+1604201581130	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileN9QlyK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604201584519	Marionette	INFO	Listening on port 55895
+1604201584798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604201643838	Marionette	INFO	Stopped listening on port 55895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604201666696	geckodriver	INFO	Listening on 127.0.0.1:55950
+1604201669763	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofiletoufDX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604201673708	Marionette	INFO	Listening on port 55958
+1604201673954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604201894372	Marionette	INFO	Stopped listening on port 55958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604201911116	geckodriver	INFO	Listening on 127.0.0.1:56021
+1604201914173	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile2DI1Lu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604201917859	Marionette	INFO	Listening on port 56029
+1604201918337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604202101009	Marionette	INFO	Stopped listening on port 56029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604202981484	geckodriver	INFO	Listening on 127.0.0.1:56246
+1604202984525	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilejAOKvU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604202988333	Marionette	INFO	Listening on port 56256
+1604202988689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604203073538	Marionette	INFO	Stopped listening on port 56256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604203097197	geckodriver	INFO	Listening on 127.0.0.1:56310
+1604203100222	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileawc5Pn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604203103737	Marionette	INFO	Listening on port 56318
+1604203103900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204495638	Marionette	INFO	Stopped listening on port 56318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ning on port 56425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204138108	geckodriver	INFO	Listening on 127.0.0.1:56468
+1604204141165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileHiMz6b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204145422	Marionette	INFO	Listening on port 56476
+1604204145928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204202994	Marionette	INFO	Stopped listening on port 56476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204203661	geckodriver	INFO	Listening on 127.0.0.1:56533
+1604204206725	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile9wjNux"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204210702	Marionette	INFO	Listening on port 56541
+1604204210892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604204229881	Marionette	INFO	Stopped listening on port 56541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204240874	geckodriver	INFO	Listening on 127.0.0.1:56567
+1604204243943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile6nZyfv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204247554	Marionette	INFO	Listening on port 56575
+1604204247610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204303613	Marionette	INFO	Stopped listening on port 56575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204304235	geckodriver	INFO	Listening on 127.0.0.1:56625
+1604204307275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile4xUsBx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204311127	Marionette	INFO	Listening on port 56633
+1604204311492	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1604204316443	Marionette	INFO	Stopped listening on port 56633
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1604204319515	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilemlGaUp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204323309	Marionette	INFO	Listening on port 56665
+1604204323718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204365072	Marionette	INFO	Stopped listening on port 56665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204499418	geckodriver	INFO	Listening on 127.0.0.1:56753
+1604204502469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileq8WWSD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204506386	Marionette	INFO	Listening on port 56761
+1604204506646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204565019	Marionette	INFO	Stopped listening on port 56761
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204580469	geckodriver	INFO	Listening on 127.0.0.1:56815
+1604204583542	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileBC1tw7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204587172	Marionette	INFO	Listening on port 56823
+1604204587223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604204740764	Marionette	INFO	Stopped listening on port 56823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604204770396	geckodriver	INFO	Listening on 127.0.0.1:56885
+1604204773454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileJ06x0Z"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604204777074	Marionette	INFO	Listening on port 56893
+1604204777136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604205041113	Marionette	INFO	Stopped listening on port 56893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604205190940	geckodriver	INFO	Listening on 127.0.0.1:56986
+1604205193982	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileBKLlzj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604205197799	Marionette	INFO	Listening on port 56994
+1604205198149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604205245525	Marionette	INFO	Stopped listening on port 56994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604205268404	geckodriver	INFO	Listening on 127.0.0.1:57047
+1604205271461	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilec3mtHe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604205274868	Marionette	INFO	Listening on port 57055
+1604205275126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604205440998	Marionette	INFO	Stopped listening on port 57055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604205553818	geckodriver	INFO	Listening on 127.0.0.1:57116
+1604205556863	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileVSXvBq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604205560419	Marionette	INFO	Listening on port 57124
+1604205560542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604206566473	Marionette	INFO	Stopped listening on port 57124
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604207959225	geckodriver	INFO	Listening on 127.0.0.1:57666
+1604207962282	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile2Lkpf2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: rs-experiment-loader-timer
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208032914	geckodriver	INFO	Listening on 127.0.0.1:57691
+1604208035972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileJK1WmI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208039356	Marionette	INFO	Listening on port 57699
+1604208039636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/navigate.js, line 213: TypeError: driver.dialogObserver is null
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604208062655	Marionette	INFO	Stopped listening on port 57699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208083906	geckodriver	INFO	Listening on 127.0.0.1:57754
+1604208086947	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileZoungi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208090518	Marionette	INFO	Listening on port 57762
+1604208090614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=27&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604208265857	Marionette	INFO	Stopped listening on port 57762
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208272296	geckodriver	INFO	Listening on 127.0.0.1:57814
+1604208275369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile1OBqTh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208278919	Marionette	INFO	Listening on port 57822
+1604208279034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=27&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+1604208316261	Marionette	INFO	Stopped listening on port 57822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208318636	geckodriver	INFO	Listening on 127.0.0.1:57879
+1604208321715	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileRWCKXk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208325748	Marionette	INFO	Listening on port 57887
+1604208325909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=27&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604208544312	Marionette	INFO	Stopped listening on port 57887
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208591914	geckodriver	INFO	Listening on 127.0.0.1:57945
+1604208594987	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofilemLDYRZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208598618	Marionette	INFO	Listening on port 57954
+1604208598650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=30&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MTR/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+[Parent 4544, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604208711534	Marionette	INFO	Stopped listening on port 57954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604208761187	geckodriver	INFO	Listening on 127.0.0.1:58004
+1604208764261	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofile1hyXla"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208768063	Marionette	INFO	Listening on port 58012
+1604208768422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604209106985	Marionette	INFO	Stopped listening on port 58012
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604209342494	geckodriver	INFO	Listening on 127.0.0.1:58086
+1604209345561	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileOebpgk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209348928	Marionette	INFO	Listening on port 58094
+1604209349243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=30&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MTR/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604209515871	Marionette	INFO	Stopped listening on port 58094
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+[Parent 14740, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604209517490	geckodriver	INFO	Listening on 127.0.0.1:58169
+1604209520516	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Angel\\AppData\\Local\\Temp\\rust_mozprofileVxYNlV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209524355	Marionette	INFO	Listening on port 58177
+1604209524681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=30&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20de%20Nodos%20Distribuidos/MTR/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20de%20Nodos%20Distribuidos, line 232: TypeError: firstRow is undefined
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1604209757828	Marionette	INFO	Stopped listening on port 58177
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bBy74ikyrxInu74H87cDcSph7pNm2JDT6rAkclnkCeoFNnbL5WCtee3s8bdeiPv1o92ngQ2RpXlCNIGi42idVMUX2TE3BH3KaEleZV_hGRbiHts25jH0&t=51e37521, line 2: TypeError: t is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
