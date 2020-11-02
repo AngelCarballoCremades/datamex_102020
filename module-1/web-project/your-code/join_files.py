@@ -1,6 +1,6 @@
 import pandas as pd
-import sqlalchemy
 import os
+import sys
 
 datas = ['PND-MTR','PND-MDA']#,'PML-MTR','PML-MDA']
 systems = ['SIN','BCA','BCS']
@@ -20,7 +20,8 @@ def join_csvs(folder,files):
         df_1 = pd.read_csv(f'{folder}\\{files[i]}', skiprows=7, usecols=[0,1,2,3,4,5,6])
         df_2 = pd.concat([df,df_1])
         df = df_2
-        print(f'{i},', end = '')
+        print(f'{len(files)-i},', end = '')
+        sys.stdout.flush()
     print('Done')
     # print(df)
     # print(df.columns)
@@ -36,7 +37,3 @@ for system in systems:
 
 
         df.to_csv(f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\{system}-{data}.csv', index = False)
-
-
-
-
