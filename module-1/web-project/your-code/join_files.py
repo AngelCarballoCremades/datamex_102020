@@ -13,7 +13,7 @@ systems = ['SIN','BCA','BCS']
 
 def get_folder(data,system):
     """This function returns folder,files wher folder is the folder to look for files in the selected system and data, files is a list with the name of all the files available"""
-    folder = f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\{data[:3]}\\{data[-3:]}'
+    folder = f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\test\\{data[:3]}\\{data[-3:]}'
     files_list = os.listdir(folder)
     files = [file for file in files_list if system in file] # Select files of indicated system by name
 
@@ -53,7 +53,7 @@ for system in systems:
             df = join_csvs(folder,files,system,data) # Create a df with all files joined
 
             print('Creating .csv file...\n')
-            df.to_csv(f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\{system}-{data}.csv', index = False) # Create csv file from joined csv's df
+            df.to_csv(f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\test\\{system}-{data}.csv', index = False) # Create csv file from joined csv's df
 
         else:
             # If no files where found in folder the system-data is skipped
