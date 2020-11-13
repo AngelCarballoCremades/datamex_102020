@@ -59,3 +59,5 @@ JavaScript error: https://www.cenace.gob.mx/ScriptResource.axd?d=jLmy3jXxeSyq9bB
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1605229944823	geckodriver	INFO	Listening on 127.0.0.1:51131
+1605230961017	geckodriver	INFO	Listening on 127.0.0.1:51414
