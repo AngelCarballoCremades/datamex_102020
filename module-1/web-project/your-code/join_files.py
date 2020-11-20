@@ -6,39 +6,81 @@ Debes especificar el folder donde están tus archivos (con la estructura adecuad
 import pandas as pd
 import os
 import sys
+import shutil
 
 # Data and systems to join
 datas = ['PND-MTR','PND-MDA','PML-MTR','PML-MDA']
-systems = ['SIN','BCA','BCS']
+systems = ['BCA','BCS','SIN']
+markets = ['MTR','MDA']
+node_types = ['PND','PML']
 
+folder_frame = 'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files'
 def get_folder(data,system):
     """This function returns folder,files wher folder is the folder to look for files in the selected system and data, files is a list with the name of all the files available"""
-    folder = f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\test\\{data[:3]}\\{data[-3:]}'
+    folder = f'{folder_frame}\\{data[:3]}\\{data[-3:]}'
     files_list = os.listdir(folder)
     files = [file for file in files_list if system in file] # Select files of indicated system by name
 
     return folder,files
 
-def join_csvs(folder,files,system,data):
-    """This functions joins all csv files in 'files' list within 'folder'. Returns a data frame of all csv files joined and sorted."""
-    print(f'{system}-{data}')
-    print('Joining files ', end = '')
+def get_file_path(node_type, system, data):
+    return f'{folder_frame}\\{system}-{node_type}-{data}.csv'
 
-    # Reads first file of the list
-    df = pd.read_csv(f'{folder}\\{files[0]}', skiprows=7, usecols=[0,1,2,3,4,5,6])
+def join_small_csvs(folder, files, system, data):
+    """This functions joins all csv files in 'files' list within 'folder' to the specified file"""
+    out_filename = f'{folder_frame}\\{system}-{data}.csv'
 
-    for i in range(1,len(files)):
+    # values to add to file as columns: system and market
+    market = data[-3:]
+    string_byte = bytes(f'{system},{market},', 'ascii')
+    header_byte = bytes(f'Sistema,Mercado,', 'ascii')
 
-        df_1 = pd.read_csv(f'{folder}\\{files[i]}', skiprows=7, usecols=[0,1,2,3,4,5,6]) # Read next file from list
-        df = pd.concat([df,df_1]) # Join df_1 to main df
+    with open(out_filename, 'wb') as outfile:
+        for i, file in enumerate(files):
 
-        print(f'{len(files)-i},', end = '')
-        sys.stdout.flush() # Prints
+            with open(f'{folder}\\{file}', 'rb') as readfile:
+                if i == 0:
+                    for j in range(7):
+                        readfile.readline()
+                    line = readfile.readline()
+                    outfile.write(header_byte+line)
+                else:
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
 
-    print('Done')
-    df.sort_values(by = ['Zona de Carga','Fecha','Hora'], inplace = True ,ascending = [True,True,True]) #Sort df
+                for line in readfile.readlines():
+                    outfile.write(string_byte+line)
 
-    return df.reset_index(drop=True) # Return df
+def join_big_csvs(node_type):
+    """This functions joins all csv files in 'files' list within 'folder' to the specified file"""
+    out_filename = f'{folder_frame}\\{node_type}.csv'
+
+    print(node_type)
+
+    with open(out_filename, 'wb') as outfile:
+
+        for i,system in enumerate(systems):
+            for j,market in enumerate(markets):
+
+                file = f'{system}-{node_type}-{market}.csv'
+                print(f'Joining {file}')
+
+                with open(f'{folder_frame}\\{file}', 'rb') as readfile:
+
+                    if i != 0 or j != 0:
+                        readfile.readline()
+
+                    shutil.copyfileobj(readfile, outfile, length=16*1024*1024)
+
+                os.remove(f'{folder_frame}\\{file}')
+
+    print(f'{node_type} Done.')
 
 
 # Main code
@@ -50,16 +92,28 @@ for system in systems:
 
         if len(files):
 
-            df = join_csvs(folder,files,system,data) # Create a df with all files joined
+            print(f'{system}-{data} ', end = '')
+            sys.stdout.flush() # Prints
 
-            print('Creating .csv file...\n')
-            df.to_csv(f'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\test\\{system}-{data}.csv', index = False) # Create csv file from joined csv's df
+            join_small_csvs(folder,files,system,data)
+
+            print('Done')
 
         else:
             # If no files where found in folder the system-data is skipped
             print(f'\n{system}-{data} data not found.\n')
 
+print('Finished joining files, merging by node type.')
 
+for node_type in node_types:
+    join_big_csvs(node_type)
+
+
+
+
+
+
+print('----Finished----')
 
 
 

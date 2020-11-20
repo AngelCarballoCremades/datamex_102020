@@ -16,11 +16,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
 # different data to be downloaded
 datas = ['PND-MTR','PND-MDA','PML-MTR','PML-MDA']
 
 # Download Folder, it should have appropiate folder structure
-download_folder_frame = 'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\test\\{PND_PML}\\{MDA_MTR}'
+download_folder_frame = 'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\{PND_PML}\\{MDA_MTR}'
 
 # urls to all data
 urls = {'PML-MDA':'https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnergiaSisMEM.aspx?N=6&opc=divCssPreEnergia&site=Precios%20de%20la%20energ%C3%ADa/Precios%20Marginales%20Locales/MDA/Mensuales&tipoArch=C&tipoUni=SIN&tipo=Mensuales&nombrenodop=Precios%20Marginales%20Locales',
@@ -70,6 +71,10 @@ def get_total_rows(html_code):
 
 
 # Main code
+
+# This is to measure download times
+start_time = time.time()
+
 for data in datas:
 
     # assigning download folder path for data to be downloaded
@@ -128,3 +133,4 @@ for data in datas:
     print('............DONE............')
 
 print('.......................................DONE...............................................')
+print("--- %s seconds ---" % (time.time() - start_time))
