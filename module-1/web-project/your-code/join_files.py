@@ -21,6 +21,13 @@ def get_folder(data,system):
     files_list = os.listdir(folder)
     files = [file for file in files_list if system in file] # Select files of indicated system by name
 
+    # Make smaller files
+    # if system == 'SIN' and data == 'PML':
+    #     big_files =
+    #     while True:
+
+
+
     return folder,files
 
 def get_file_path(node_type, system, data):
@@ -28,59 +35,83 @@ def get_file_path(node_type, system, data):
 
 def join_small_csvs(folder, files, system, data):
     """This functions joins all csv files in 'files' list within 'folder' to the specified file"""
-    out_filename = f'{folder_frame}\\{system}-{data}.csv'
 
     # values to add to file as columns: system and market
     market = data[-3:]
     string_byte = bytes(f'{system},{market},', 'ascii')
     header_byte = bytes(f'Sistema,Mercado,', 'ascii')
 
-    with open(out_filename, 'wb') as outfile:
-        for i, file in enumerate(files):
+    file_number = 1
+    complete = False
+    i = 0
+    files_read = 0
 
-            with open(f'{folder}\\{file}', 'rb') as readfile:
-                if i == 0:
-                    for j in range(7):
+    while not complete:
+        out_filename = f'{folder_frame}\\{system}-{data}-{file_number}.csv'
+
+        with open(out_filename, 'wb') as outfile:
+            for i, file in enumerate(files[files_read:]):
+
+                print('.', end = '')
+                sys.stdout.flush()
+
+                if os.stat(out_filename).st_size/(1024*1024*1024) > 0.95:
+                    complete = False
+                    break
+
+                files_read += 1
+
+                with open(f'{folder}\\{file}', 'rb') as readfile:
+                    if i == 0:
+                        for j in range(7):
+                            readfile.readline()
+                        line = readfile.readline()
+                        outfile.write(header_byte+line)
+                    else:
                         readfile.readline()
-                    line = readfile.readline()
-                    outfile.write(header_byte+line)
-                else:
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-                    readfile.readline()
-
-                for line in readfile.readlines():
-                    outfile.write(string_byte+line)
-
-def join_big_csvs(node_type):
-    """This functions joins all csv files in 'files' list within 'folder' to the specified file"""
-    out_filename = f'{folder_frame}\\{node_type}.csv'
-
-    print(node_type)
-
-    with open(out_filename, 'wb') as outfile:
-
-        for i,system in enumerate(systems):
-            for j,market in enumerate(markets):
-
-                file = f'{system}-{node_type}-{market}.csv'
-                print(f'Joining {file}')
-
-                with open(f'{folder_frame}\\{file}', 'rb') as readfile:
-
-                    if i != 0 or j != 0:
+                        readfile.readline()
+                        readfile.readline()
+                        readfile.readline()
+                        readfile.readline()
+                        readfile.readline()
+                        readfile.readline()
                         readfile.readline()
 
-                    shutil.copyfileobj(readfile, outfile, length=16*1024*1024)
+                    for line in readfile.readlines():
+                        outfile.write(string_byte+line)
 
-                os.remove(f'{folder_frame}\\{file}')
+        if files_read == len(files):
+            complete = True
+        file_number += 1
 
-    print(f'{node_type} Done.')
+
+
+
+def join_big_csvs(node_types, systems, markets):
+    """This functions joins all csv files created in join_small_csvs depending on node type (PND or PML)"""
+    for node in node_types:
+
+        print(node)
+        out_filename = f'{folder_frame}\\{node}.csv'
+
+        with open(out_filename, 'wb') as outfile:
+
+            for i,system in enumerate(systems):
+                for j,market in enumerate(markets):
+
+                    file = f'{system}-{node}-{market}.csv'
+                    print(f'Joining {file}')
+
+                    with open(f'{folder_frame}\\{file}', 'rb') as readfile:
+
+                        if i != 0 or j != 0:
+                            readfile.readline()
+
+                        shutil.copyfileobj(readfile, outfile, length=16*1024*1024)
+
+                    os.remove(f'{folder_frame}\\{file}')
+
+        print(f'{node} Done.')
 
 
 # Main code
@@ -103,15 +134,10 @@ for system in systems:
             # If no files where found in folder the system-data is skipped
             print(f'\n{system}-{data} data not found.\n')
 
-print('Finished joining files, merging by node type.')
+print('Finished joining files.')
+# print('Merging by node type.')
 
-for node_type in node_types:
-    join_big_csvs(node_type)
-
-
-
-
-
+# join_big_csvs(node_types, systems, markets)
 
 print('----Finished----')
 

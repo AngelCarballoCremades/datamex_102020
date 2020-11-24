@@ -20,6 +20,9 @@ from selenium.webdriver.support import expected_conditions as EC
 # different data to be downloaded
 datas = ['PND-MTR','PND-MDA','PML-MTR','PML-MDA']
 
+# 1 = current year, 2 = last year, 3 = lastlast year.... data exists from 2017
+years = [1,2,3]
+
 # Download Folder, it should have appropiate folder structure
 download_folder_frame = 'C:\\Users\\Angel\\Documents\\Ironhack\\web_project\\files\\{PND_PML}\\{MDA_MTR}'
 
@@ -31,7 +34,6 @@ urls = {'PML-MDA':'https://www.cenace.gob.mx/Paginas/SIM/Reportes/H_PreciosEnerg
 
 # xpath frame to select years
 xpath_timelapse = '/html/body/form/div[4]/div[1]/div/div[1]/div[2]/div/table/tbody/tr/td[1]/div/ul/li[{year}]/div/span[3]'
-
 # files button's xpath frame
 xpath_frame = '/html/body/form/div[4]/div[1]/div/div[1]/div[2]/div/table/tbody/tr/td[3]/div[1]/div/table/tbody/tr[{t}]/td[2]/table/tbody/tr[{r}]/td[2]/a[1]/img'
 
@@ -84,7 +86,7 @@ for data in datas:
     main_url = urls[data]
 
     # loop to download this years and last's data
-    for year_selected in [1,2]:
+    for year_selected in years:
 
         print(f'\nDOWNLOADING: {data} from {2020 if year_selected == 1 else 2019}\n')
 

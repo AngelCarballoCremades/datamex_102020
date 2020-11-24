@@ -1,4 +1,4 @@
-import psycopg2 as pg2
+import mysql.connector
 
 
 systems = ['BCA','BCS','SIN']
@@ -39,13 +39,14 @@ tables['PML'] = (
 def create_database(cursor, db_name):
     try:
         cursor.execute(
-            "CREATE DATABASE {};".format(db_name))
+            "CREATE DATABASE IF NOT EXISTS {};".format(db_name))
     except:
         print("Failed creating database {}".format(db_name))
 
 
 def create_table(cursor, table, system, market, node):
     table_name = f'{system}_{node}_{market}'
+
 
     print('Creating table {}'.format(table_name))
     try:
@@ -54,16 +55,16 @@ def create_table(cursor, table, system, market, node):
         print("Failed creating table {}".format(table_name))
 
 
-conn = pg2.connect(user='postgres', password='Licuadora1234', database='cenace')
+cnx = mysql.connector.connect(user='root', password='Licuadora1234', host='127.0.0.1')
 
-cursor = conn.cursor()
+cursor = cnx.cursor()
 
-# create_database(cursor, db_name)
+create_database(cursor, db_name)
 
-# try:
-#     cursor.execute("USE cenace;")
-# except:
-#     print("Error trying to use database {}.".format(db_name))
+try:
+    cursor.execute("USE cenace;")
+except:
+    print("Error trying to use database {}.".format(DB_NAME))
 
 
 for system in systems:
@@ -79,5 +80,5 @@ for system in systems:
 #     IGNORE 1 LINES;""")
 
 
-conn.commit()
-conn.close()
+
+cnx.close()
