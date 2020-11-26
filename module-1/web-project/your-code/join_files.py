@@ -62,20 +62,20 @@ def join_small_csvs(folder, files, system, data):
                 files_read += 1
 
                 with open(f'{folder}\\{file}', 'rb') as readfile:
-                    if i == 0:
-                        for j in range(7):
-                            readfile.readline()
-                        line = readfile.readline()
-                        outfile.write(header_byte+line)
-                    else:
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
-                        readfile.readline()
+                    # if i == 0:
+                    #     for j in range(7):
+                    #         readfile.readline()
+                    #     line = readfile.readline()
+                    #     outfile.write(header_byte+line)
+                    # else:
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
+                    readfile.readline()
 
                     for line in readfile.readlines():
                         outfile.write(string_byte+line)
