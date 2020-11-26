@@ -52,21 +52,48 @@ def resquest_data(nodes, dates, system, node_type, market):
 
     # Building request url with data provided
     url_complete = f'{url}{system}/{market}/{nodes_string}/{dates[0][:4]}/{dates[0][5:7]}/{dates[0][8:]}/{dates[1][:4]}/{dates[1][5:7]}/{dates[1][8:]}/JSON'
-    print(url_complete)
+
+    print('Requesting...', end='')
+    sys.stdout.flush()
+
     req = requests.get(url_complete)
 
     if req.status_code != 200:
         print(req.status_code)
+        print("Requesting again...", end='')
+        sys.stdout.flush()
+
         req = requests.get(url_complete)
         if req.status_code != 200:
             print(req.status_code)
+            sys.stdout.flush()
             raise
 
+    print('Processing...', end='')
+    sys.stdout.flush()
+
     soup = BeautifulSoup(req.content, 'html.parser')
-    print(soup.text)
+    # print(soup.text)
     json_data = json.loads(str(soup.text))
 
     return json_data
+
+
+def check_data(json_data, date_interval):
+    if json_data['status'] == 'OK':
+
+        first_date = json_data['Resultados'][0]['Valores'][0]['fecha']
+        last_date = json_data['Resultados'][0]['Valores'][-1]['fecha']
+
+        if [first_date,last_date] != date_interval:
+            print('')
+            print(f'Dates requested: {date_interval[0]} - {date_interval[1]}')
+            print(f'Dates obtained: {first_date} - {last_date}')
+
+    else:
+        print()
+        print(f"Data status not 'OK': {json_data['status']}")
+        print(json_data)
 
 
 def missing_dates(last_date, market):
@@ -125,6 +152,7 @@ def pack_dates(days, begining_date):
 
     return dates
 
+
 def json_to_dataframe(json_file):
     """Reads json file, creates a list of nodes DataFrames and concatenates them. After that it cleans/orders the final df and returns it"""
     dfs = []
@@ -136,18 +164,27 @@ def json_to_dataframe(json_file):
     df = pd.concat(dfs) # Join all data frames
 
     # Clean/order df to same format of existing csv files
-    df['Fecha'] = df['Valores'].apply(lambda x: x['fecha'])
-    df['Hora'] = df['Valores'].apply(lambda x: x['hora'])
-    df['Precio Zonal  ($/MWh)'] = df['Valores'].apply(lambda x: x['pz'])
-    df['Componente energia  ($/MWh)'] = df['Valores'].apply(lambda x: x['pz_ene'])
-    df['Componente perdidas  ($/MWh)'] = df['Valores'].apply(lambda x: x['pz_per'])
-    df['Componente Congestion  ($/MWh)'] = df['Valores'].apply(lambda x: x['pz_cng'])
+    df['sistema'] = json_file['sistema']
+    df['mercado'] = json_file['proceso']
+    df['fecha'] = df['Valores'].apply(lambda x: x['fecha'])
+    df['hora'] = df['Valores'].apply(lambda x: x['hora'])
 
-    df['Zona de Carga'] = df['zona_carga'].copy()
+    if json_file['nombre'] == 'PND':
+        df['precio_e'] = df['Valores'].apply(lambda x: x['pz'])
+        df['c_energia'] = df['Valores'].apply(lambda x: x['pz_ene'])
+        df['c_perdidas'] = df['Valores'].apply(lambda x: x['pz_per'])
+        df['c_congestion'] = df['Valores'].apply(lambda x: x['pz_cng'])
+        df['zona_de_carga'] = df['zona_carga'].copy()
+        df = df[['sistema','mercado','fecha','hora','zona_de_carga','precio_e','c_energia', 'c_perdidas','c_congestion']]
 
-    df = df[['Fecha', 'Hora', 'Zona de Carga', 'Precio Zonal  ($/MWh)',
-           'Componente energia  ($/MWh)', 'Componente perdidas  ($/MWh)',
-           'Componente Congestion  ($/MWh)']]
+    if json_file['nombre'] == 'PML':
+        df['precio_e'] = df['Valores'].apply(lambda x: x['pml'])
+        df['c_energia'] = df['Valores'].apply(lambda x: x['pml_ene'])
+        df['c_perdidas'] = df['Valores'].apply(lambda x: x['pml_per'])
+        df['c_congestion'] = df['Valores'].apply(lambda x: x['pml_cng'])
+        df['clave_nodo'] = df['clv_nodo'].copy()
+        df = df[['sistema','mercado','fecha','hora','clave_nodo','precio_e','c_energia', 'c_perdidas','c_congestion']]
+
     return df
 
 
@@ -159,13 +196,15 @@ cursor = conn.cursor()
 for node_type in ['PML']:#node_types:
     for system in ['BCS']:#systems:
 
-        # print(f'{system}-{node_type}')
+        # Node list to upload from sql database
         nodes = get_unique_nodes(cursor, system, node_type)
+
+        # Prepare nodes for API requests
         nodes_packed = pack_nodes(nodes, node_type)
 
         for market in ['MDA']:#markets:
 
-            # print(market)
+
             last_date = get_last_date(cursor, system, node_type, market)
             days, begining_date = missing_dates(last_date, market)
             dates_packed = pack_dates(days, begining_date)
@@ -173,17 +212,26 @@ for node_type in ['PML']:#node_types:
 
             if len(dates_packed):
 
-                requests_left = len(nodes_packed) * len(dates_packed)
+                total_requests = len(nodes_packed) * len(dates_packed)
                 dfs = [] # List of missing info data frames
 
-                for node_group in nodes_packed:
-                    for date_interval in dates_packed:
+                i = 1
+                for date_interval in dates_packed:
+                    for node_group in nodes_packed:
 
-                        print(f'{requests_left} requests left.')
+                        print(f'{i}/{total_requests} ', end='')
+                        sys.stdout.flush()
+
                         json_data = resquest_data(node_group, date_interval, system, node_type, market)
-                        dfs.append(json_to_dataframe(json_data))
+                        check_data(json_data, date_interval)
 
-                        requests_left -= 1
+                        print('Appending...', end='')
+                        sys.stdout.flush()
+
+                        dfs.append(json_to_dataframe(json_data))
+                        print('Done.')
+
+                        i += 1
 
     #                     break
     #                 break
@@ -192,8 +240,8 @@ for node_type in ['PML']:#node_types:
     # break
 
                 df = pd.concat(dfs) # Join downloaded info in one data frame
-                print(dates_packed)
-                print(df)
+                # print(dates_packed)
+                # print(df)
              #    df_prev = pd.read_csv(f'{file_path(data,system)}') # Get existing info file
 
              #    df_final = pd.concat([df_prev,df]) # Join existing info with downloaded info
@@ -206,13 +254,13 @@ for node_type in ['PML']:#node_types:
              #    print(f'{system}-{data} up to date\n')
 
              # #If there are no updates to be made...
-            else:
-                print(f'{system}-{data} up to date\n')
+#             else:
+#                 print(f'{system}-{data} up to date\n')
 
-print('.....................DONE.....................')
+# print('.....................DONE.....................')
 
-conn.commit()
-conn.close()
+# conn.commit()
+# conn.close()
 
 
 
