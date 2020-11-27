@@ -13,6 +13,7 @@ import pandas as pd
 from datetime import date, timedelta
 import json
 import psycopg2 as pg2
+import grequests
 
 # Data and system to be downloaded
 datas = ['PND-MTR','PND-MDA']#,'PML-MTR','PML-MDA']
@@ -48,7 +49,7 @@ def get_last_date(cursor, system, node_type, market):
     return cursor.fetchall()[0][0]
 
 
-def resquest_data(nodes, dates, system, node_type, market):
+def get_url(nodes, dates, system, node_type, market):
 
     # Building node string
     nodes_string = ','.join(nodes)
@@ -59,24 +60,24 @@ def resquest_data(nodes, dates, system, node_type, market):
     # Building request url with data provided
     url_complete = f'{url}{system}/{market}/{nodes_string}/{dates[0][:4]}/{dates[0][5:7]}/{dates[0][8:]}/{dates[1][:4]}/{dates[1][5:7]}/{dates[1][8:]}/JSON'
 
-    print('Requesting...', end='')
-    sys.stdout.flush()
+    # print('Requesting...', end='')
+    # sys.stdout.flush()
 
-    req = requests.get(url_complete)
+    # req = requests.get(url_complete)
 
-    if req.status_code != 200:
-        print(req.status_code)
-        print("Requesting again...", end='')
-        sys.stdout.flush()
+    # if req.status_code != 200:
+    #     print(req.status_code)
+    #     print("Requesting again...", end='')
+    #     sys.stdout.flush()
 
-        req = requests.get(url_complete)
-        if req.status_code != 200:
-            print(req.status_code)
-            sys.stdout.flush()
-            raise
+    #     req = requests.get(url_complete)
+    #     if req.status_code != 200:
+    #         print(req.status_code)
+    #         sys.stdout.flush()
+    #         raise
 
-    print('Processing...', end='')
-    sys.stdout.flush()
+    # print('Processing...', end='')
+    # sys.stdout.flush()
 
 
     # soup = BeautifulSoup(req.content, 'html.parser')
@@ -84,7 +85,7 @@ def resquest_data(nodes, dates, system, node_type, market):
     # json_data = json.loads(req.json())
     # print(json_data)
 
-    return req.json()
+    return url_complete
 
 
 def check_data(json_data, date_interval):
@@ -262,102 +263,58 @@ for node_type in node_types:
                 for date_interval in dates_packed:
 
                     dfs = [] # List of missing info data frames
+                    urls_to_get = []
 
                     for node_group in nodes_packed:
 
-                        print(f'{i}/{total_requests} ', end='')
-                        sys.stdout.flush()
+                        # print(f'{i}/{total_requests} ', end='')
+                        # sys.stdout.flush()
 
-                        json_data = resquest_data(node_group, date_interval, system, node_type, market)
+                        urls_to_get.append(get_url(node_group, date_interval, system, node_type, market))
 
-                        check_data(json_data, date_interval)
+                        # check_data(json_data, date_interval)
 
-                        print('Appending...', end='')
-                        sys.stdout.flush()
+                        # print('Appending...', end='')
+                        # sys.stdout.flush()
 
-                        dfs.append(json_to_dataframe(json_data))
-                        print('Done.')
+                        # dfs.append(json_to_dataframe(json_data))
+                        # print('Done.')
 
                         i += 1
 
+                    rs = (grequests.get(u) for u in urls_to_get)
 
-                    df = pd.concat(dfs) # Join downloaded info in one data frame
+                    reqs = grequests.map(rs)
 
-                    values = pack_values(df)
-                    # print(values)
-
-                    print(f'Uploading data from {date_interval[0]} to {date_interval[1]} into SQL database.', end='')
-                    sys.stdout.flush()
-                    insert_into_table(cursor, system, node_type, market, values)
-
-                        # break
-    #                 break
-    #         break
-    #     break
-    # break
-
-
-                    conn.commit()
-
-                print(f'{system}-{node_type}-{market} up to date\n')
-
-             #If there are no updates to be made...
-            else:
-                print(f'{system}-{node_type}-{market} up to date\n')
-
-print('.....................DONE.....................')
-
-conn.commit()
-conn.close()
+                    print(reqs)
 
 
 
+#                     df = pd.concat(dfs) # Join downloaded info in one data frame
+
+#                     values = pack_values(df)
+#                     # print(values)
+
+#                     print(f'Uploading data from {date_interval[0]} to {date_interval[1]} into SQL database.', end='')
+#                     sys.stdout.flush()
+#                     insert_into_table(cursor, system, node_type, market, values)
+
+#                         # break
+#     #                 break
+#     #         break
+#     #     break
+#     # break
 
 
+#                     conn.commit()
 
+#                 print(f'{system}-{node_type}-{market} up to date\n')
 
-# Main code
-# for system in systems:
-#     for data in datas:
-
-#         df = pd.read_csv(file_path(data,system)) # Reads system and data existing file
-
-#         nodes = [node.replace(' ', '-') for node in df['Zona de Carga'].unique().tolist()] # Unique list of nodes in system file
-
-#         nodes_api = pack_nodes(nodes) # Prepares nodes for requests
-
-#         days,begining_date = missing_dates(df) # Gets number of missing dates in info
-
-#         dates = pack_dates(days, begining_date) # Prepares dates for requests
-
-#         # If there are updates to be made...
-#         if len(dates):
-#             requests_left = len(nodes_api) * len(dates)
-#             dfs = [] # List of missing info data frames
-
-#             for node_group in nodes_api:
-
-#                 for date_interval in dates:
-
-#                     print(f'{requests_left} requests left.')
-#                     json_file = get_json(node_group,date_interval,system,data) # Request and get json with data
-#                     dfs.append(json_to_dataframe(json_file)) # Add new requested info to main data frame
-#                     requests_left -= 1
-
-#             df = pd.concat(dfs) # Join downloaded info in one data frame
-#             df_prev = pd.read_csv(f'{file_path(data,system)}') # Get existing info file
-
-#             df_final = pd.concat([df_prev,df]) # Join existing info with downloaded info
-
-#             # Order new data frame
-#             df_final.sort_values(by = ['Zona de Carga','Fecha','Hora'], inplace = True ,ascending = [True,True,True])
-
-#             # Overwrite existing file with updated file
-#             df_final.to_csv(f'{file_path(data,system)}', index = False)
-#             print(f'{system}-{data} up to date\n')
-
-#         #  If there are no updates to be made...
-#         else:
-#             print(f'{system}-{data} up to date\n')
+#              #If there are no updates to be made...
+#             else:
+#                 print(f'{system}-{node_type}-{market} up to date\n')
 
 # print('.....................DONE.....................')
+
+# # conn.commit()
+# # conn.close()
