@@ -1,6 +1,6 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Final Project: Comprehensive Data Analytics Project
+# CENACE Scraper - Dashboard
 
 ## Table of Content
 
@@ -12,14 +12,6 @@
 * [Day 2](#day-2)
 * [Day 3](#day-3)
 * [Day 4](#day-4)
-
-**[Necessary Deliverables](#necessary-deliverables)**
-
-**[Presentation Guideline and Criteria](#presentation-guideline-and-criteria)**
-
-**[5 Tips for Successful Completion](#5-tips-for-successful-completion)**
-
----
 
 ## Overview
 
@@ -242,7 +234,7 @@ The following deliverables should be pushed to your Github repo.
 Below are a few videos of the Ironhack Hackshow where our graudates presented their final projects. Take a quick look on how our past students presented their projects.
 
 * [Web Dev final project demo](https://www.youtube.com/watch?v=MnUxEL3iiig)
-* [UX/UI final project demo](https://www.youtube.com/watch?v=oII8I2nl7WM) 
+* [UX/UI final project demo](https://www.youtube.com/watch?v=oII8I2nl7WM)
 * [Hackshow diciembre 2017 - Madrid](https://www.youtube.com/watch?v=64Jav707V9E) (Spanish)
 
 ## 5 Tips for Successful Completion
